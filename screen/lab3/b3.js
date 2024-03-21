@@ -132,7 +132,7 @@ export default class App extends Component {
             }}
           />
           <Animated.Text style={[styles.headerText, { opacity: textOpacity }]}>
-            Mornin' Mark
+            Hello, Duy An
           </Animated.Text>
           <Animated.Text style={[styles.headerText, { opacity: textOpacity }]}>
             Ready for a quiz?
